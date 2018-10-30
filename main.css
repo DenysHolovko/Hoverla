@@ -1,0 +1,87 @@
+body {
+	margin: 0 20 0 20;
+	padding: 0;
+}
+
+hr {
+	background-color: #a2a9b1;
+	margin-top: 2px;
+}
+
+h1 {
+	margin-bottom: 0;
+	font-weight: 100;
+}
+
+a {
+	color: cornflowerblue;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+p {
+	padding-bottom: 10px;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+.container {
+	display: block;
+}
+
+.navigation {
+	color: black;
+}
+
+.zmist {
+	display: block;
+	width: 270px;
+	border: 1px solid #a2a9b1;
+	margin-left: 5px;
+	margin-top: 15px;
+	background-color: #f8f9fa;
+}
+
+.zmist p {
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.symbol-pic {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.sections-ul li {
+	list-style-type: none; 
+	margin-left: 0;
+	font-size: 15px;
+}
+
+.rightpic {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+.section-5 {
+	display: inline-block;
+
+}
+
+ .picture {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+.to-the-top {
+	margin: 25px 0 25px 0;
+	margin-left: 50%;
+	border-radius: 5px;
+	background-color: red;
+}
+
+.to-the-top a {
+	color: black;
+}
+
