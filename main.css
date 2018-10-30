@@ -46,6 +46,7 @@ p {
 	text-align: center;
 	font-weight: bold;
 	font-size: 18px;
+	padding-bottom: 0;
 }
 
 .symbol-pic {
@@ -76,12 +77,14 @@ p {
 
 .to-the-top {
 	margin: 25px 0 25px 0;
-	margin-left: 50%;
+	margin-left: 45%;
 	border-radius: 5px;
 	background-color: red;
+	padding: 15px;
 }
 
 .to-the-top a {
 	color: black;
+	font-weight: bold;
 }
 
